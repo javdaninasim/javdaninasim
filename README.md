@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1 align="center">Hi, I'm Nasim Javdani 👋</h1>
+<h1 align="center">Nasim Javdani</h1>
 <h3 align="center">🧠 Computational Neuroscience Researcher | 🤖 Bridging Biological Brains & Machines</h3>
 
 <p align="center">
