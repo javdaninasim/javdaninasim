@@ -1,8 +1,7 @@
 <div align="center">
 
-<a href="https://github.com/javdaninasim">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=2E86C1&center=true&vCenter=true&width=800&lines=Hi,+I'm+Nasim+Javdani+👋;Computational+Neuroscience+Researcher+🧠;Bridging+Biological+Brains+%26+Machines+🤖;Computer+Engineering+%40+Sharif+University+🎓" alt="Typing SVG" />
-</a>
+<h1 align="center">Hi, I'm Nasim Javdani 👋</h1>
+<h3 align="center">🧠 Computational Neuroscience Researcher | 🤖 Bridging Biological Brains & Machines</h3>
 
 <p align="center">
   <i>"Decoding the brain's algorithms to build the next generation of intelligent systems."</i>
